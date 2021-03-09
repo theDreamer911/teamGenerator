@@ -9,5 +9,5 @@ Have Fun, have a nice code
 Support me on medium
 
 ```
-handhikay.medium.com
+https://handhikayp.medium.com/
 ```
